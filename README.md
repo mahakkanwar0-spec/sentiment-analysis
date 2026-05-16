@@ -96,7 +96,7 @@ The analysis showed that most customers were satisfied with Amazon food products
 ![Pie Chart](charts/pie_chart.png)
 
 ### Rating vs Sentiment Comparison
-![Comparison Chart](charts/rating_vs_sentiment.png)
+![Comparison Chart](charts/chart3_length.png)
 
 ---
 
