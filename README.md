@@ -127,8 +127,6 @@ sentiment-analysis/
 ├── Reviews.csv
 ├── requirements.txt
 ├── README.md
-├── Summary.pdf
-│
 └── charts/
     ├── bar_chart.png
     ├── pie_chart.png
